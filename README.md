@@ -3,8 +3,8 @@
 Want to work on something specific at Hacky Hour or PhTea? Want to find other cool people to work on it with you? You have the power to make it happen!
 
 1. Go to the ['Issues'](https://github.com/resbazaz/Weekly_Projects/issues) section on this GitHub project and see if there is already an issue describing a project which you would like to work on
-    a. ✅ If there is, add elaborating comments and encouragement to the original issue creator
-    b. ❌ If not, create a new issue describing what you would like to work on, and why other people might find it interesting
+    - ✅ If there is, add elaborating comments and encouragement to the original issue creator
+    - ❌ If not, create a new issue describing what you would like to work on, and why other people might find it interesting
 
 2. Schedule the project and alert potential collaborators
     - Go to the Meetup events page: https://www.meetup.com/ResBazAZ/events/
