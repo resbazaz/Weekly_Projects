@@ -1,22 +1,15 @@
 # Weekly_Projects
 
-This repo keeps track of any projects developed or worked at weekly ResBazAZ meetings: PhTea, Hacky Hour, and Shut Up And Write.
+Want to work on something specific at Hacky Hour or PhTea? Want to find other cool people to work on it with you? You have the power to make it happen!
 
-### How to document a meeting?
+1. Go to the ['Issues'](https://github.com/resbazaz/Weekly_Projects/issues) section on this GitHub project and see if there is already an issue describing a project which you would like to work on
+    a. ✅ If there is, add elaborating comments and encouragement to the original issue creator
+    b. ❌ If not, create a new issue describing what you would like to work on, and why other people might find it interesting
 
-We document our meetings by following a Jupyter Notebook tempate (`notebook_template.ipynb`). Thus, in order to create or update a notebook for any meeting, you will need `Python` and `Jupyter Notebook`.
-
-1.  Fork this repository 
-2.  `cd` into `notebooks` directory
-3.  Next start jupyter notebook by typing the command `jupyter notebook` in your terminal. This should open a window in your web browser on your `localhost`
-4. Select the box next to `notebook_template.ipynb` and make a copy of this notebook. 
-5. Click on the copy you have made to open this notebook
-6. Rename the notebook! Follow the naming convention in the first cell of the template (e.g. `2017-08-03-hackyhour.ipynb`).
-7. Nota Bene: Even though this is a `Python` notebook, all of the cells are in `Markdown`. 
-8. Enter in whatever information, attendence, notes, etc that you would like to publish in the notebook.
-9. When you are done, save the notebook and exit jupyter notebooks (control+c).
-10. Commit and push your changes to your fork `git add <notebook name>`, `git commit <your commit message>`, `git push`.
-11. Now you are ready to make a pull request so that we can merge your changes into the `resbazaz` repo. Go [here](https://github.com/resbazaz/Weekly_Projects/pulls) to make a pull request. Make sure to compare `resbazaz/Weekly_Projects`'s `origin` branch to your repo.
-12. Add a quick comment on the pull request and submit. Someone will review your code and merge it into `master`.
-13. Congratulations! :tada: You have contributed to ResBazAZ! Thank you for your help! :sparkling_heart:  
- 
+2. Schedule the project and alert potential collaborators
+    - Go to the Meetup events page: https://www.meetup.com/ResBazAZ/events/
+    - Find the next event on the calendar when you want to work on the project (either a Hacky Hour or PhTea)
+    - Add a comment to the scheduled event with a link to the GitHub issue (see step 1) you are planning to work on
+    - Yes, it's absolutely OK if we workn on multiple projects per meeting! The more the merrier!
+    
+Note: If you don't have any particular project in mind and just want to help out, check out the GitHub issues above and indicate your interest in specific projects by giving them 'thumbsups' 👍
