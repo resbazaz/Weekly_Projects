@@ -1,6 +1,6 @@
 # Weekly_Projects
 
-Want to work on something specific at Hacky Hour or PhTea? Want to find other cool people to work on it with you? You have the power to make it happen!
+Want to work on something specific at Hacky Hour or Coffee & Code? Want to find other cool people to work on it with you? You have the power to make it happen!
 
 1. Go to the ['Issues'](https://github.com/resbazaz/Weekly_Projects/issues) section on this GitHub project and see if there is already an issue describing a project which you would like to work on
     - ✅ If there is, add elaborating comments and encouragement to the original issue creator
@@ -8,7 +8,7 @@ Want to work on something specific at Hacky Hour or PhTea? Want to find other co
 
 2. Schedule the project and let potential collaborators know
     - Go to the Meetup events page: https://www.meetup.com/ResBazAZ/events/
-    - Find the next event on the calendar when you want to work on the project (either a Hacky Hour or PhTea)
+    - Find the next event on the calendar when you want to work on the project (either a Hacky Hour or Coffee & Code)
     - Add a comment to the scheduled event with a link to the GitHub issue (see step 1) you are planning to work on
     - Yes, it's absolutely OK if we work on multiple projects per meeting! The more the merrier!
     
